@@ -1,0 +1,25 @@
+Mechta:
+  first_dep:
+    names:
+      - Olya_4
+      - Dima_3
+      - Ivan_2
+    speciality:
+      bookkeeper:
+        -
+      lawyer:
+        - Olya
+  second_dep:
+
+  third_dep:
+    speciality:
+      bookkeeper:
+        -
+      lawyer:
+        - Olya
+
+  fourth_dep:
+
+  fiveth_dep:
+
+  sixth:
